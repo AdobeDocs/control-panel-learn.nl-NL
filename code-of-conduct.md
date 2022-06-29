@@ -1,8 +1,8 @@
 ---
 source-git-commit: d8b509413bfaac9b37b2a65e6dbac55927577cc0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '0'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 # Adobe-gedragscode
