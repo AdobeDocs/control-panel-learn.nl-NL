@@ -6,10 +6,10 @@ index: true
 feature: Control Panel
 role: Admin
 level: Experienced
-source-git-commit: d8e46d229f689ce3d2f6dd7bcf52c6c7eefaf4be
+source-git-commit: 54bc494e991f14e35813d37f240f78c30148803e
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '122'
+ht-degree: 81%
 
 ---
 
@@ -18,6 +18,7 @@ ht-degree: 0%
 
 + [Configuratiescherm ](/help/control-panel-overview.md)
 + [Aan de slag met configuratiescherm](/help/get-started-with-control-panel.md)
++ [Regelpaneel voor hybride hostingmodellen](/help/control-panel-for-hybrid-hosting-models.md)
 + SFTP-beheer {#sftp-management}
    + [Servercapaciteit controleren](/help/sftp-management/monitor-server-capacity.md)
    + [IP van de Lijst van gewenste personen waaiers](/help/sftp-management/allowlist-ip-range.md)
