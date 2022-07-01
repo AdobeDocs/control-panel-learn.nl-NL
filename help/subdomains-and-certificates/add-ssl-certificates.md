@@ -10,10 +10,10 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 7937499a-8267-4ce6-a93c-65c0c5e4e582
-source-git-commit: dc31bc114b82eae4042562f292d5f52203c7e2b3
+source-git-commit: d12902547ffde67838b326c93162d0937ff438a6
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '269'
+ht-degree: 38%
 
 ---
 
@@ -44,6 +44,18 @@ In de onderstaande video wordt beschreven hoe u een aanvraag voor certificaatond
 
 *Aanvragen voor certificaatondertekening genereren (02:36 min)*
 
+>[!NOTE]
+>
+>Er zijn verschillende verbeteringen aangebracht in het CSR-generatieproces:
+>
+>* Wanneer het produceren van CSR, kunt u één van inbegrepen subdomeinen nu selecteren als Gemeenschappelijke Naam.
+>* U kunt het overzicht CSR nu kopiëren alvorens CSR te produceren.
+>* Nadat een CSR is gegenereerd, kunt u deze opnieuw downloaden uit de taaklogboeken. Deze functie is niet van toepassing op certificaten die zijn gegenereerd vóór deze release.
+>
+>![CSR downloaden](/help/assets/download-csr.gif)
+>
+>Zie de [productdocumentatie](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renew-ssl/renewing-subdomain-certificate.html?lang=en) voor meer informatie.
+
 ### 2. SSL-certificaat aanschaffen
 
 Nadat u de CSR hebt verkregen, moet u het SSL-certificaat aanschaffen bij een certificeringsinstantie die is goedgekeurd door uw organisatie.
@@ -57,3 +69,5 @@ In de onderstaande video ziet u hoe u SSL-certificaten kunt installeren in [!UIC
 >[!VIDEO](https://video.tv.adobe.com/v/31166?quality=12)
 
 *SSL-certificaten installeren (01:25 min)*
+
+
