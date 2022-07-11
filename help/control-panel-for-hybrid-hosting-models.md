@@ -1,6 +1,6 @@
 ---
-title: Controlebord voor hybride Adobe Campaign-hostingmodellen
-description: Leer hoe u het Configuratiescherm kunt inschakelen voor hybride hostmodellen, toegang tot het Configuratiescherm en ontgrendeling van sleutelfuncties.
+title: Configuratiescherm voor hybride hostingmodellen van Adobe Campaign
+description: Leer hoe u het configuratiescherm inschakelt voor hybride hostingmodellen, toegang krijgt tot het configuratiescherm en de belangrijkste functies ontgrendelt.
 feature: Control Panel
 kt: 10483
 thumbnail: 344502.jpg
@@ -9,18 +9,18 @@ activity: use
 team: PM
 role: Admin
 level: Beginner
-source-git-commit: 12080c860dd3102389e6cbe9a15fa273f0f80ccb
-workflow-type: tm+mt
+exl-id: bdb54553-23e6-4a32-9fc8-47a313fc7179
+source-git-commit: 2ae9b94ed0fe87fa2919b9a051e0ef4a80a1566b
+workflow-type: ht
 source-wordcount: '64'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
+# Configuratiescherm voor hybride hostingmodellen
 
-# Regelpaneel voor hybride hostingmodellen
-
-Leer hoe u het Configuratiescherm inschakelt voor hybride hostmodellen van Adobe Campaign, toegang krijgt tot het Configuratiescherm en sleutelfuncties ontgrendelt.
+Leer hoe u het configuratiescherm inschakelt voor hybride hostingmodellen van Adobe Campaign, toegang krijgt tot het configuratiescherm en belangrijke functies ontgrendelt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/344502?quality=12)
 
-Zie voor meer informatie de [productdocumentatie](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/external-accounts.html).
+Zie de [productdocumentatie](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/external-accounts.html?lang=nl) voor meer informatie.
