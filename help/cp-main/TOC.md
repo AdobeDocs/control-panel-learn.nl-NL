@@ -7,9 +7,9 @@ feature: Control Panel
 role: Admin
 level: Experienced
 source-git-commit: 54bc494e991f14e35813d37f240f78c30148803e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '122'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -17,11 +17,11 @@ ht-degree: 81%
 # Adobe Campaign-configuratiescherm - tutorials {#control-panel}
 
 + [Configuratiescherm ](/help/control-panel-overview.md)
-+ [Aan de slag met configuratiescherm](/help/get-started-with-control-panel.md)
-+ [Regelpaneel voor hybride hostingmodellen](/help/control-panel-for-hybrid-hosting-models.md)
++ [Aan de slag met het configuratiescherm](/help/get-started-with-control-panel.md)
++ [Configuratiescherm voor hybride hostingmodellen](/help/control-panel-for-hybrid-hosting-models.md)
 + SFTP-beheer {#sftp-management}
    + [Servercapaciteit controleren](/help/sftp-management/monitor-server-capacity.md)
-   + [IP van de Lijst van gewenste personen waaiers](/help/sftp-management/allowlist-ip-range.md)
+   + [IP-bereiken toevoegen op de lijst van gewenste personen](/help/sftp-management/allowlist-ip-range.md)
    + [Een SSH-sleutel genereren](/help/sftp-management/generate-ssh-key.md)
    + [Verbinding maken met een SFTP-server](/help/sftp-management/connect-to-sftp-server.md)
 + Subdomeinen en certificaten {#subdomains-and-certificates}
@@ -30,7 +30,7 @@ ht-degree: 81%
    + [SSL-certificaten toevoegen](/help/subdomains-and-certificates/add-ssl-certificates.md)
    + [Beheer van Google-TXT-records](/help/subdomains-and-certificates/google-txt-record-management.md)
 + Versie-instellingen {#instance-settings}
-   + [IP van de Lijst van gewenste personen adressen](/help/instance-settings/allowlist-ip-adresses.md)
+   + [IP-adressen toevoegen op de lijst van gewenste personen](/help/instance-settings/allowlist-ip-adresses.md)
    + [URL-machtigingen toevoegen](/help/instance-settings/add-url-permissions.md)
    + GPG-sleutelbeheer {#gpg-key-management}
       + [GPG-sleutelbeheer - overzicht](/help/instance-settings/gpg-key-management/gpg-key-management-overview.md)
@@ -40,5 +40,5 @@ ht-degree: 81%
 + Prestatiecontrole {#performance-monitoring}
    + [Databases controleren](/help/performance-monitoring/monitor-databases.md)
    + [Workflows bewaken](/help/performance-monitoring/monitor-workflows.md)
-   + [Doorvoereenheden en latentie bewaken](/help/performance-monitoring/monitor-throughputs-and-latency.md)
-+ [Probleemoplossing in Configuratiescherm](/help/trouble-shooting.md)
+   + [Doorvoer en latentie bewaken](/help/performance-monitoring/monitor-throughputs-and-latency.md)
++ [Problemen met het configuratiescherm oplossen](/help/trouble-shooting.md)
