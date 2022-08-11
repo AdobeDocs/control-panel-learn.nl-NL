@@ -1,5 +1,5 @@
 ---
-title: Aan de slag met configuratiescherm
+title: Aan de slag met het configuratiescherm
 description: Ontdek hoe u toegang krijgt tot het configuratiescherm en wat de vereisten zijn om met het configuratiescherm te kunnen werken.
 feature: Control Panel
 kt: 6388
@@ -12,18 +12,18 @@ level: Experienced
 recommendations: noDisplay
 exl-id: 976d97d7-9bdf-4eab-b95a-7df2e9e5787e
 source-git-commit: dc31bc114b82eae4042562f292d5f52203c7e2b3
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '196'
+ht-degree: 100%
 
 ---
 
 # Aan de slag met [!UICONTROL Control Panel] {#control-panel}
 
 >[!CAUTION]
-> Voor Campaign v7 gelden implementatiebeperkingen. [Meer informatie](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=en#v7-restrictions)
+> Voor Campaign v7 gelden implementatiebeperkingen. [Meer informatie](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=nl#v7-restrictions)
 
-[!UICONTROL Control Panel] staat Adobe Campaign-beheerders toe om belangrijke elementen te controleren en beheertaken uit te voeren, zoals het beheren van de [!DNL SFTP] opslag per instantie, beheren [!DNL GPG] toetsen, of [!UICONTROL subdomains] en [!UICONTROL certificates].
+Met [!UICONTROL Control Panel] kunnen Adobe Campaign-beheerders belangrijke activa bewaken en administratieve taken uitvoeren zoals het beheren van de [!DNL SFTP]-opslag per instantie, het beheren van [!DNL GPG] sleutels of [!UICONTROL subdomains] en [!UICONTROL certificates].
 
 In dit artikel wordt uitgelegd hoe u toegang krijgt tot het configuratiescherm en wat de vereisten zijn om met het configuratiescherm te kunnen werken.
 
@@ -59,4 +59,4 @@ De volgende video laat zien hoe u een beheerder aan een Campaign-instantie kunt 
 
 [Meer informatie](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=nl#discover-control-panel) over het beheren van machtigingen.
 
-Zie de [Help-centrum van regelpaneel](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=nl) voor extra middelen.
+Raadpleeg het [Helpcentrum van het Configuratiescherm](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=nl) voor aanvullende bronnen.
