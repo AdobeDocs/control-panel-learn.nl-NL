@@ -12,8 +12,8 @@ level: Experienced
 exl-id: 7937499a-8267-4ce6-a93c-65c0c5e4e582
 source-git-commit: d12902547ffde67838b326c93162d0937ff438a6
 workflow-type: tm+mt
-source-wordcount: '269'
-ht-degree: 38%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -46,11 +46,11 @@ In de onderstaande video wordt beschreven hoe u een aanvraag voor certificaatond
 
 >[!NOTE]
 >
->Er zijn verschillende verbeteringen aangebracht in het CSR-generatieproces:
+>Het proces voor het genereren van CSR&#39;s is op verschillende manieren verbeterd:
 >
->* Wanneer het produceren van CSR, kunt u één van inbegrepen subdomeinen nu selecteren als Gemeenschappelijke Naam.
->* U kunt het overzicht CSR nu kopiëren alvorens CSR te produceren.
->* Nadat een CSR is gegenereerd, kunt u deze opnieuw downloaden uit de taaklogboeken. Deze functie is niet van toepassing op certificaten die zijn gegenereerd vóór deze release.
+>* Bij het genereren van een CSR kunt u nu een van de inbegrepen subdomeinen selecteren als de algemene naam.
+>* U kunt het CSR-overzicht nu kopiëren voordat u het CSR genereert.
+>* Nadat een CSR is gegenereerd, kunt u het opnieuw downloaden uit de taaklogboeken. Dit is niet mogelijk voor certificaten die zijn gegenereerd vóór deze release.
 >
 >![CSR downloaden](/help/assets/download-csr.gif)
 >
