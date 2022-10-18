@@ -9,16 +9,18 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 57a51ec2-7ac5-4e2c-bd58-e259e2acb4f1
-source-git-commit: 54bc494e991f14e35813d37f240f78c30148803e
-workflow-type: tm+mt
+source-git-commit: f6eefe5c95532c38d32275070416b960b208ad10
+workflow-type: ht
 source-wordcount: '0'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Overzicht van het Configuratiescherm
 
 Met het Adobe Campaign Configuratiescherm kunnen Adobe Campaign-beheerders belangrijke assets controleren en beheertaken uitvoeren, zoals het beheren van de SFTP-opslag per instantie, het beheren van GPG-sleutels of subdomeinen en certificaten.
+
+<div id="whats-new-section">
 
 ## Nieuwe functies
 
@@ -35,6 +37,17 @@ Met het Adobe Campaign Configuratiescherm kunnen Adobe Campaign-beheerders belan
    *Leer hoe u de leveringsdoorvoer en transactieberichtlatenties van uw Campaign-instantie kunt bewaken.*
 
 Zie [Aanvullende informatie](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=nl) voor meer informatie over de nieuwste productreleases.
+
+</div>
+
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
+
+<div id="staff-picks-section">
 
 ## Aanbevolen door medewerkers van Adobe
 
@@ -81,6 +94,8 @@ Zie [Aanvullende informatie](https://experienceleague.adobe.com/docs/control-pan
   </td>
 </tr>
 </table>
+
+</div>
 
 ## Aanvullende bronnen
 
