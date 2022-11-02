@@ -10,10 +10,10 @@ team: PM
 role: Admin
 level: Beginner
 exl-id: bdb54553-23e6-4a32-9fc8-47a313fc7179
-source-git-commit: 2ae9b94ed0fe87fa2919b9a051e0ef4a80a1566b
+source-git-commit: 6b43ca447240fff46a627ddf9091877ccd0245ca
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '64'
+ht-degree: 89%
 
 ---
 
@@ -23,4 +23,4 @@ Leer hoe u het configuratiescherm inschakelt voor hybride hostingmodellen van Ad
 
 >[!VIDEO](https://video.tv.adobe.com/v/344502?quality=12)
 
-Zie de [productdocumentatie](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/external-accounts.html?lang=nl) voor meer informatie.
+Zie de [productdocumentatie](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/external-accounts.html) voor meer informatie.
