@@ -10,7 +10,7 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 6cb4990b-448b-4a3b-8ff0-9f2fcb53ff5d
-source-git-commit: 711d473b765dd9c9380f43af5c9bcadf56e9f2b7
+source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 82%
@@ -34,4 +34,4 @@ Om toegang te krijgen tot SFTP-beheer in het Configuratiescherm gaat u naar:
 
 Ontdek hoe u een SSH-sleutel kunt genereren met behulp van een terminal en hoe u de openbare versie van de sleutel in het configuratiescherm kunt opslaan.
 
->[!VIDEO](https://video.tv.adobe.com/v/27259?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27259?quality=12&learn=0n)
