@@ -9,8 +9,8 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 92d32589-7763-4895-8117-abfd47d808e3
-source-git-commit: dc31bc114b82eae4042562f292d5f52203c7e2b3
-workflow-type: tm+mt
+source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
+workflow-type: ht
 source-wordcount: '320'
 ht-degree: 100%
 
@@ -43,18 +43,18 @@ De beheerder moet de gebruiker toevoegen aan het productprofiel _Campaign-xxx-Ad
 
 ### Nuttige video’s
 
->[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12&learn=0n)
 
 *IMS-organisatie-id controleren (00:26 min)*
 
->[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12&learn=0n)
 
 *Een beheerder toevoegen aan het productprofiel voor beheerders om [!UICONTROL Control panel] te kunnen gebruiken (01:03 min)*
 
 ### Nuttige documentatie
 
 * [Het Configuratiescherm verkennen](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=nl)
-* [Machtigingen beheren voor het [!UICONTROL Control Panel]](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=en)
+* [Machtigingen beheren voor het [!UICONTROL Control Panel]](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=nl)
 
 ## Verbinding met SFTP-server tot stand brengen (client of API)
 
@@ -66,4 +66,4 @@ Voor verbinding met SFTP-servers is het volgende vereist:
 
 ### Nuttige documentatie {#helpful-docs}
 
-* [Aanmelden bij uw SFTP-server](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=en)
+* [Aanmelden bij uw SFTP-server](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=nl)
