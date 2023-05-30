@@ -11,9 +11,9 @@ role: Admin
 level: Experienced
 exl-id: 8a5c3c16-c7b4-413a-8606-bf5045f24ef4
 source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '99'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
@@ -37,4 +37,4 @@ In de onderstaande video ziet u hoe u subdomeinen kunt delegeren.
 
 *Subdomeindelegatie (05:07 min)*
 
-Voor meer informatie over het vernieuwen van het SSL-certificaat van een subdomein raadpleegt u de [productdocumentatie](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html?lang=nl).
+Zie de [productdocumentatie](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html?lang=nl) voor meer informatie over het verlengen van het SSL-certificaat van een subdomein.
