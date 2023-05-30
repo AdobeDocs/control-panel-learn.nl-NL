@@ -1,6 +1,6 @@
 ---
-title: IP-adressen toevoegen op de lijst van gewenste personen
-description: Leer hoe te om een IP waaier aan de lijsten van gewenste personen van de instanties van Adobe Campaign toe te voegen en hoe te om hen uit de lijst van gewenste personen te verwijderen gebruikend het controlepaneel.
+title: IP-adressen toevoegen aan de lijst van gewenste personen
+description: Leer hoe u een IP-bereik aan de lijsten met gewenste personen van Adobe Campaign-instanties kunt toevoegen en hoe u deze uit de lijsten met gewenste personen kunt verwijderen met behulp van het configuratiescherm.
 feature: Control Panel
 kt: 3479
 thumbnail: 28726.jpg
@@ -11,15 +11,15 @@ role: Admin
 level: Experienced
 exl-id: 09d2677e-2946-440b-9df6-9824355c58e1
 source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '182'
-ht-degree: 62%
+ht-degree: 100%
 
 ---
 
-# IP-adressen toevoegen op de lijst van gewenste personen
+# IP-adressen toevoegen aan de lijst van gewenste personen
 
-In het configuratiescherm kunt u nieuwe verbindingen met uw versies maken door de IP-adresbereiken van de lijsten van gewenste personen toe te staan. Standaard is een Adobe Campaign-versie niet toegankelijk via verschillende IP-adressen. Daarom moet een IP adres worden gevoegd op lijst van gewenste personen:
+In het configuratiescherm kunt u nieuwe verbindingen met uw versies maken door de IP-adresbereiken van de lijsten van gewenste personen toe te staan. Standaard is een Adobe Campaign-versie niet toegankelijk via verschillende IP-adressen. Hiervoor moet een IP-adres worden gevoegd aan de lijst van gewenste personen:
 
 * Om toegang te verlenen tot de [!DNL Campaign]-instantie vanaf dit IP-adres
 * Om een API te verbinden met uw Berichtencentrum of marketinginstantie
@@ -34,8 +34,8 @@ of
 
 ## Een IP-bereik aan de lijst met gewenste personen van uw versie toevoegen
 
-Leer hoe te om een IP waaier aan de lijsten van gewenste personen van de instanties van Adobe Campaign toe te voegen en hoe te om hen uit de lijst van gewenste personen te verwijderen gebruikend het controlepaneel.
+Leer hoe u een IP-bereik aan de lijsten met gewenste personen van Adobe Campaign-instanties kunt toevoegen en hoe u deze uit de lijsten met gewenste personen kunt verwijderen met behulp van het configuratiescherm.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28726?quality=12&learn=0n)
 
-Voor meer informatie over IP kun je aanbiedingen bekijken via [gedetailleerde productdocumentatie](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html?lang=nl).
+Raadpleeg de [gedetailleerde productdocumentatie](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html?lang=nl) voor meer informatie over IP-adressen en lijsten met gewenste personen.
