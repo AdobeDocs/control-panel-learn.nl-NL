@@ -1,6 +1,6 @@
 ---
-title: Lijst van gewenste personen een IP waaier
-description: Leer hoe u een IP adreswaaier aan de lijst van gewenste personen kunt toevoegen.
+title: IP-bereik aan een lijst van gewenste personen toevoegen
+description: Ontdek hoe u een IP-adresbereik aan de lijst van gewenste personen kunt toevoegen.
 feature: Control Panel
 kt: 6430
 thumbnail: 41775.jpg
@@ -12,16 +12,16 @@ role: Admin
 level: Experienced
 exl-id: bb07c575-a4db-4485-aae8-7c249c8d183b
 source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '66'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Lijst van gewenste personen een IP waaier
+# IP-bereik aan een lijst van gewenste personen toevoegen
 
-Als u verbinding wilt maken met een server via een clienttoepassing of een API, moet u een openbare SSH-sleutel instellen en het IP-adres toevoegen dat verbinding maakt met uw SFTP-server naar de lijst van gewenste personen.
+Als u verbinding wilt maken met een server via een cliënttoepassing of via een API, moet u een openbare SSH-sleutel instellen en het IP-adres dat verbinding maakt met uw SFTP-server, toevoegen aan de lijst met gewenste personen.
 
-Leer hoe u een IP adreswaaier aan de lijst van gewenste personen kunt toevoegen.
+Ontdek hoe u een IP-adresbereik aan de lijst van gewenste personen kunt toevoegen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/41775?quality=12&learn=0n)
