@@ -11,9 +11,9 @@ role: Admin
 level: Experienced
 exl-id: 7937499a-8267-4ce6-a93c-65c0c5e4e582
 source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '269'
-ht-degree: 62%
+ht-degree: 100%
 
 ---
 
@@ -36,7 +36,7 @@ Voor het toevoegen van SSL-certificaten zijn drie stappen vereist:
 
 ### 1. Aanvragen voor certificaatondertekening genereren
 
-De CSR (Certificate Signing Request) is vereist voor de aanschaf van een SSL-certificaat. Deze moet worden gegenereerd voor de instantie en de subdomeinen die u wilt beveiligen.
+De Certificate Signing Request (CSR) of aanvraag voor certificaatondertekening is vereist voor de aanschaf van een SSL-certificaat. Deze moet worden gegenereerd voor de instantie en de subdomeinen die u wilt beveiligen.
 
 In de onderstaande video wordt beschreven hoe u een aanvraag voor certificaatondertekening kunt genereren in het Configuratiescherm.
 
@@ -54,11 +54,11 @@ In de onderstaande video wordt beschreven hoe u een aanvraag voor certificaatond
 >
 >![CSR downloaden](/help/assets/download-csr.gif)
 >
->Zie de [productdocumentatie](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renew-ssl/renewing-subdomain-certificate.html?lang=en) voor meer informatie.
+>Zie de [productdocumentatie](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renew-ssl/renewing-subdomain-certificate.html?lang=nl) voor meer informatie.
 
 ### 2. SSL-certificaat aanschaffen
 
-Nadat u de CSR hebt verkregen, moet u het SSL-certificaat aanschaffen bij een certificeringsinstantie die is goedgekeurd door uw organisatie.
+Nadat u de aanvraag voor certificaatondertekening hebt verkregen, moet u het SSL-certificaat aanschaffen bij een certificeringsinstantie die is goedgekeurd door uw organisatie.
 
 ### 3. SSL-certificaten installeren
 
