@@ -3,7 +3,7 @@ title: Servercapaciteit controleren
 description: Ontdek hoe u de SFTP-opslag per versie kunt controleren en beheren en IP-adressen aan lijsten met gewenste personen kunt toevoegen.
 feature: Control Panel
 audience: administrator
-kt: 3266
+jira: KT-3266
 thumbnail: 27270.jpg
 doc-type: feature video
 activity: use
@@ -11,7 +11,7 @@ team: TM
 role: Admin
 level: Experienced
 exl-id: c4fa20ed-a836-4c69-b3a8-749dc43e6b09
-source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
+source-git-commit: af05bde1295913c93388dd014462e32afb081669
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 100%
@@ -28,7 +28,7 @@ Om toegang te krijgen tot subdomeinbeheer in het [!UICONTROL Control Panel] gaat
 
 * [Experience Cloud Home](https://experience.adobe.com/#/home) > [!UICONTROL Solution picker]: [!UICONTROL Campaign] > kaart **[!UICONTROL Control Panel]** > kaart **[!UICONTROL Subdomains & Certificates]**
 
-   of
+  of
 * Rechtstreeks via de URL: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
 
 ## Servercapaciteit controleren, IP-adressen [!UICONTROL allowlist] en SSH-sleutels toevoegen
