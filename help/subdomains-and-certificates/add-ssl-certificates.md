@@ -2,7 +2,7 @@
 title: SSL-certificaten toevoegen
 description: Leer hoe u SSL-certificaten toevoegt om uw subdomeinen te beveiligen.
 feature: Control Panel
-kt: 4219
+jira: KT-4219
 thumbnail: 31317.jpg
 doc-type: feature video
 activity: use
@@ -10,7 +10,7 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 7937499a-8267-4ce6-a93c-65c0c5e4e582
-source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
+source-git-commit: af05bde1295913c93388dd014462e32afb081669
 workflow-type: ht
 source-wordcount: '269'
 ht-degree: 100%
@@ -27,7 +27,7 @@ Om toegang te krijgen tot subdomeinbeheer in het Configuratiescherm gaat u naar:
 
 * [Experience Cloud Home](https://experience.adobe.com/#/home) > Oplossingskiezer: **[!DNL Campaign]** > kaart **[!UICONTROL Control Panel]** > kaart **[!UICONTROL Subdomains & Certificates]**
 
-   of
+  of
 * Rechtstreeks via de URL: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
 
 ## Stappen om SSL-certificaten toe te voegen
@@ -55,6 +55,7 @@ In de onderstaande video wordt beschreven hoe u een aanvraag voor certificaatond
 >![CSR downloaden](/help/assets/download-csr.gif)
 >
 >Zie de [productdocumentatie](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renew-ssl/renewing-subdomain-certificate.html?lang=nl) voor meer informatie.
+>
 
 ### 2. SSL-certificaat aanschaffen
 
