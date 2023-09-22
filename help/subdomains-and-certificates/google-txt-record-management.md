@@ -10,10 +10,10 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 436575ea-d53c-409a-8d66-48217c9f9a83
-source-git-commit: af05bde1295913c93388dd014462e32afb081669
+source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 100%
+source-wordcount: '102'
+ht-degree: 98%
 
 ---
 
@@ -23,4 +23,4 @@ Om hoge inboxpercentages en lage spampercentages te waarborgen vereisen sommige 
 
 Leer hoe u [!UICONTROL Google TXT] siteverificatierecords toevoegt aan al uw subdomeinen die worden gebruikt om e-mails te verzenden naar [!DNL GMAIL] adressen met [!UICONTROL Campaign Control Panel].
 
->[!VIDEO](https://video.tv.adobe.com/v/32369?quality=12&learn=0n)
+>[!VIDEO](https://video.tv.adobe.com/v/32369?learn=on){transcript=true}

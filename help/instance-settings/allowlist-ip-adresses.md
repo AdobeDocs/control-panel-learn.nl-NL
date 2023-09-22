@@ -10,10 +10,10 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 09d2677e-2946-440b-9df6-9824355c58e1
-source-git-commit: af05bde1295913c93388dd014462e32afb081669
+source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
 workflow-type: tm+mt
-source-wordcount: '182'
-ht-degree: 100%
+source-wordcount: '184'
+ht-degree: 98%
 
 ---
 
@@ -36,6 +36,6 @@ of
 
 Leer hoe u een IP-bereik aan de lijsten met gewenste personen van Adobe Campaign-instanties kunt toevoegen en hoe u deze uit de lijsten met gewenste personen kunt verwijderen met behulp van het configuratiescherm.
 
->[!VIDEO](https://video.tv.adobe.com/v/28726?quality=12&learn=0n)
+>[!VIDEO](https://video.tv.adobe.com/v/28726?learn=on){transcript=true}
 
 Raadpleeg de [gedetailleerde productdocumentatie](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html?lang=nl) voor meer informatie over IP-adressen en lijsten met gewenste personen.

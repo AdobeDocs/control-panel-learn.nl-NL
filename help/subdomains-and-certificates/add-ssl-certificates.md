@@ -10,10 +10,10 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 7937499a-8267-4ce6-a93c-65c0c5e4e582
-source-git-commit: af05bde1295913c93388dd014462e32afb081669
+source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
 workflow-type: tm+mt
-source-wordcount: '269'
-ht-degree: 100%
+source-wordcount: '273'
+ht-degree: 98%
 
 ---
 
@@ -40,7 +40,7 @@ De Certificate Signing Request (CSR) of aanvraag voor certificaatondertekening i
 
 In de onderstaande video wordt beschreven hoe u een aanvraag voor certificaatondertekening kunt genereren in het Configuratiescherm.
 
->[!VIDEO](https://video.tv.adobe.com/v/31317?quality=12&learn=0n)
+>[!VIDEO](https://video.tv.adobe.com/v/31317?learn=on){transcript=true}
 
 *Aanvragen voor certificaatondertekening genereren (02:36 min)*
 
@@ -67,7 +67,7 @@ Nadat u het SSL-certificaat hebt verkregen, moet het worden geïnstalleerd voor 
 
 In de onderstaande video ziet u hoe u SSL-certificaten kunt installeren in [!UICONTROL Control Panel].
 
->[!VIDEO](https://video.tv.adobe.com/v/31166?quality=12&learn=0n)
+>[!VIDEO](https://video.tv.adobe.com/v/31166?learn=on){transcript=true}
 
 *SSL-certificaten installeren (01:25 min)*
 
