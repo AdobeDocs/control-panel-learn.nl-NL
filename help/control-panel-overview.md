@@ -11,7 +11,7 @@ role: Admin
 level: Experienced
 exl-id: 57a51ec2-7ac5-4e2c-bd58-e259e2acb4f1
 source-git-commit: 1e3ad983e8879252715ad4616c5541154db8eb2b
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '315'
 ht-degree: 100%
 
@@ -26,16 +26,13 @@ Met het Adobe Campaign Configuratiescherm kunnen Adobe Campaign-beheerders belan
 ## Nieuwe functies
 
 * **[Configuratiescherm voor hybride hostingmodellen](/help/control-panel-for-hybrid-hosting-models.md)**
-
-   *Leer hoe u het configuratiescherm inschakelt voor hybride hostingmodellen van Adobe Campaign, toegang krijgt tot het configuratiescherm en de belangrijkste functies ontgrendelt.*
+  *Leer hoe u het configuratiescherm inschakelt voor hybride hostingmodellen van Adobe Campaign, toegang krijgt tot het configuratiescherm en de belangrijkste functies ontgrendelt.*
 
 * **[Workflows bewaken](/help/performance-monitoring/monitor-workflows.md)**
-
-   *Leer hoe u het tijdelijke opslaggebruik van uw workflows kunt bewaken en waar u workflowinstellingen kunt configureren om database- of workflowproblemen op uw instantie te voorkomen.*
+  *Leer hoe u het tijdelijke opslaggebruik van uw workflows kunt bewaken en waar u workflowinstellingen kunt configureren om database- of workflowproblemen op uw instantie te voorkomen.*
 
 * **[Doorvoer en latentie bewaken](/help/performance-monitoring/monitor-throughputs-and-latency.md)**
-
-   *Leer hoe u de leveringsdoorvoer en transactieberichtlatenties van uw Campaign-instantie kunt bewaken.*
+  *Leer hoe u de leveringsdoorvoer en transactieberichtlatenties van uw Campaign-instantie kunt bewaken.*
 
 Zie [Aanvullende informatie](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=nl) voor meer informatie over de nieuwste productreleases.
 

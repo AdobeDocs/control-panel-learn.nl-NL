@@ -1,6 +1,6 @@
 ---
 title: GPG-sleutelbeheer - Overzicht
-description: Ontdek hoe u een openbaar/privé sleutelpaar kunt genereren en installeren op een opgegeven  [!DNL Campaign] -instantie voor de versleuteling van uitgaande gegevens. Begrijp hoe te om een openbare sleutel in te voeren en te installeren op een [!DNL Campaign] instantie voor het decoderen van binnenkomende gegevens.
+description: Ontdek hoe u een openbaar/privé sleutelpaar kunt genereren en installeren op een opgegeven  [!DNL Campaign] -instantie voor de versleuteling van uitgaande gegevens. Begrijp hoe te om een openbare sleutel in te voeren en te installeren op [!DNL Campaign] instantie voor het decoderen van binnenkomende gegevens.
 feature: Control Panel
 team: TM
 role: Admin
@@ -16,7 +16,7 @@ ht-degree: 73%
 # GPG-sleutelbeheer - Overzicht
 
 GPG (GnuPG) versleutelt berichten met behulp van asymmetrische individuele sleutelparen. Om GPG-versleuteling te implementeren met [!DNL Campaign], moeten GPG-sleutels rechtstreeks vanuit het Configuratiescherm op een marketinginstantie worden geïnstalleerd en/of gegenereerd door een beheerder.
-Ontdek hoe u een openbaar/privé sleutelpaar kunt genereren en installeren op een opgegeven [!DNL Campaign]-instantie voor de versleuteling van uitgaande gegevens. Begrijp hoe te om een openbare sleutel in te voeren en te installeren op een [!DNL Campaign] instantie voor het decoderen van binnenkomende gegevens.
+Ontdek hoe u een openbaar/privé sleutelpaar kunt genereren en installeren op een opgegeven [!DNL Campaign]-instantie voor de versleuteling van uitgaande gegevens. Begrijp hoe te om een openbare sleutel in te voeren en te installeren op [!DNL Campaign] instantie voor het decoderen van binnenkomende gegevens.
 
 * [GPG-sleutels voor versleuteling van gegevens genereren en installeren](./generate-and-install-gpg-keys-for-data-encryption.md)
 * [Een GPG-sleutel gebruiken om gegevens te versleutelen](./use-a-gpg-key-to-encrypt-data.md)
