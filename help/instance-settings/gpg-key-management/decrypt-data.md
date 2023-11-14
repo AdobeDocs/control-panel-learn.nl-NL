@@ -11,9 +11,9 @@ role: Admin
 level: Experienced
 exl-id: 51de34f4-5480-459b-b8b6-6637c7bd3b89
 source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '80'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -26,6 +26,6 @@ Ontdek hoe u een openbare sleutel maakt en hoe u deze kunt importeren en install
 
 >[!VIDEO](https://video.tv.adobe.com/v/35753?learn=on){transcript=true}
 
-## Adobe Campaign V7/V8
+## Adobe Campaign v7/v8
 
 >[!VIDEO](https://video.tv.adobe.com/v/36482?learn=on){transcript=true}
