@@ -32,7 +32,7 @@ ht-degree: 100%
    + [SSL-certificaten toevoegen](/help/subdomains-and-certificates/add-ssl-certificates.md)
    + [Beheer van Google-TXT-records](/help/subdomains-and-certificates/google-txt-record-management.md)
 + Versie-instellingen {#instance-settings}
-   + [IP-adressen toevoegen op de lijst van gewenste personen](/help/instance-settings/allowlist-ip-adresses.md)
+   + [IP-adressen toevoegen aan de lijst van gewenste personen](/help/instance-settings/allowlist-ip-adresses.md)
    + [URL-machtigingen toevoegen](/help/instance-settings/add-url-permissions.md)
    + GPG-sleutelbeheer {#gpg-key-management}
       + [GPG-sleutelbeheer - overzicht](/help/instance-settings/gpg-key-management/gpg-key-management-overview.md)
