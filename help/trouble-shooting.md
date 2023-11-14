@@ -10,9 +10,9 @@ role: Admin
 level: Experienced
 exl-id: 92d32589-7763-4895-8117-abfd47d808e3
 source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '324'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -45,7 +45,7 @@ De beheerder moet de gebruiker toevoegen aan het productprofiel _Campaign-xxx-Ad
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?learn=on){transcript=true}
 
-*IMS-organisatie-id controleren (00:26 min)*
+*IMS-organisatie-ID controleren (00:26 min)*
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?learn=on){transcript=true}
 
