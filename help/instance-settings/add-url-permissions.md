@@ -11,9 +11,9 @@ role: Admin
 level: Experienced
 exl-id: 86cdb284-a5a7-4ad4-a1dc-d203f75be948
 source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '51'
-ht-degree: 66%
+ht-degree: 100%
 
 ---
 
@@ -23,4 +23,4 @@ Ontdek hoe u een verbinding tot stand brengt tussen uw [!DNL Adobe Campaign]-ver
 
 >[!VIDEO](https://video.tv.adobe.com/v/28149?learn=on){transcript=true}
 
-Zie voor meer informatie [de productdocumentatie](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/url-permissions.html).
+Raadpleeg de [productdocumentatie](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/url-permissions.html?lang=nl) voor meer informatie.
