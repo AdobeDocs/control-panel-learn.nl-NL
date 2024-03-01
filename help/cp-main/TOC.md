@@ -1,5 +1,5 @@
 ---
-user-guide-title: Tutorials over het Adobe Campaign-configuratiescherm
+user-guide-title: Zelfstudies voor het Adobe Campaign-configuratiescherm
 user-guide-description: Leer hoe u in het configuratiescherm de belangrijkste assets van uw Adobe Campaign-instanties kunt controleren en beheertaken kunt uitvoeren.
 breadcrumb-title: Tutorials voor het configuratiescherm
 index: true
@@ -8,17 +8,17 @@ feature: Control Panel
 role: Admin
 level: Experienced
 auto-video-transcripts: true
-source-git-commit: d2b06b5280e0bd24e3730f70857831836efca03b
-workflow-type: ht
-source-wordcount: '122'
-ht-degree: 100%
+source-git-commit: 5aa8487852e7b578dc23186a93c9b73890cdafad
+workflow-type: tm+mt
+source-wordcount: '123'
+ht-degree: 89%
 
 ---
 
 
-# Adobe Campaign-configuratiescherm - tutorials {#tutorials}
+# Zelfstudies voor het Adobe Campaign-configuratiescherm {#tutorials}
 
-+ [Configuratiescherm ](/help/control-panel-overview.md)
++ [Zelfstudies voor het regelpaneel](/help/control-panel-overview.md)
 + [Aan de slag met het configuratiescherm](/help/get-started-with-control-panel.md)
 + [Configuratiescherm voor hybride hostingmodellen](/help/control-panel-for-hybrid-hosting-models.md)
 + SFTP-beheer {#sftp-management}
