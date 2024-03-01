@@ -1,5 +1,5 @@
 ---
-title: Overzicht van het Configuratiescherm
+title: Zelfstudies voor het regelpaneel
 description: Met het Adobe Campaign-configuratiescherm kunnen Adobe Campaign-beheerders belangrijke assets controleren en beheertaken uitvoeren, zoals het beheren van de SFTP-opslag per instantie, het beheren van GPG-sleutels of het beheren van subdomeinen en certificaten.
 landing-page-description: Met het configuratiescherm kunnen Campaign-beheerders belangrijke assets controleren en beheertaken uitvoeren, zoals het beheren van de SFTP-opslag, GPG-sleutels of subdomeinen en certificaten.
 short-description: Met het configuratiescherm kunnen Campaign-beheerders belangrijke assets controleren en beheertaken uitvoeren, zoals het beheren van de SFTP-opslag, GPG-sleutels of subdomeinen en certificaten.
@@ -10,16 +10,16 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 57a51ec2-7ac5-4e2c-bd58-e259e2acb4f1
-source-git-commit: 769e31eccbfd543345fc43a5615fa7dbab134e21
-workflow-type: ht
+source-git-commit: b69a12670fb996537c3f8230b6d98be88f6eccb0
+workflow-type: tm+mt
 source-wordcount: '219'
-ht-degree: 100%
+ht-degree: 97%
 
 ---
 
-# Overzicht van het Configuratiescherm
+# Zelfstudies voor het regelpaneel
 
-Met het Adobe Campaign Configuratiescherm kunnen Adobe Campaign-beheerders belangrijke assets controleren en beheertaken uitvoeren, zoals het beheren van de SFTP-opslag per instantie, het beheren van GPG-sleutels of subdomeinen en certificaten.
+Met het Adobe Campaign-configuratiescherm kunnen Adobe Campaign-beheerders belangrijke assets controleren en beheertaken uitvoeren, zoals het beheren van de SFTP-opslag per instantie, het beheren van GPG-sleutels of het beheren van subdomeinen en certificaten.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
