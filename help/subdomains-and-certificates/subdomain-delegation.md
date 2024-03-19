@@ -5,15 +5,16 @@ feature: Control Panel
 jira: KT-4115
 thumbnail: 31390.jpg
 doc-type: feature video
+last-substantial-update: 2024-03-18T00:00:00Z
 activity: use
 team: PM
 role: Admin
 level: Experienced
 exl-id: 8a5c3c16-c7b4-413a-8606-bf5045f24ef4
-source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
-workflow-type: ht
-source-wordcount: '101'
-ht-degree: 100%
+source-git-commit: b1f8f620ed5f9f5a0ee2165041a036728943fc84
+workflow-type: tm+mt
+source-wordcount: '84'
+ht-degree: 88%
 
 ---
 
@@ -25,8 +26,7 @@ Met het [!UICONTROL Control Panel] van Adobe Campaign kunt u een subdomein volle
 
 Om toegang te krijgen tot subdomeinbeheer in het [!UICONTROL Control Panel] gaat u naar:
 
-* [Experience Cloud Home](https://experience.adobe.com/#/home) > Oplossingskiezer: **[!DNL Campaign]** > kaart **[!UICONTROL Control Panel]** > kaart **Subdomeinen en certificaten**
-of
+* [Experience Cloud startpunt](https://experience.adobe.com/#/home) > Oplossingskiezer: **[!DNL Campaign]** > **[!UICONTROL Control Panel]** kaart > **Subdomeinen en certificaten** kaart of
 * Rechtstreeks via de URL: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
 
 ## Subdomeinen delegeren
@@ -34,7 +34,5 @@ of
 In de onderstaande video ziet u hoe u subdomeinen kunt delegeren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31390?learn=on){transcript=true}
-
-*Subdomeindelegatie (05:07 min)*
 
 Zie de [productdocumentatie](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html?lang=nl) voor meer informatie over het verlengen van het SSL-certificaat van een subdomein.
