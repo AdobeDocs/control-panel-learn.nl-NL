@@ -24,6 +24,6 @@ De assets, workflows en gegevens van al uw Campaign-versies worden opgeslagen in
 
 Leer hoe u het databasegebruik van uw exemplaren bewaakt met [!DNL Control Panel].
 
->[!VIDEO](https://video.tv.adobe.com/v/327175?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448846?learn=on&captions=dut){transcript=true}
 
 Zie voor meer informatie over databasebewaking de [productdocumentatie](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/database-monitoring/database-monitoring.html?lang=nl).

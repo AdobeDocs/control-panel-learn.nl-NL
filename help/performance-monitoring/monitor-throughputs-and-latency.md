@@ -22,7 +22,7 @@ ht-degree: 100%
 
 Leer leveringsdoorvoer en transactionele berichtlatentie van uw Campaign-instantie te bewaken.
 
->[!VIDEO](https://video.tv.adobe.com/v/344310/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444743/?learn=on&captions=dut){transcript=true}
 
 ## Aanvullende bronnen
 

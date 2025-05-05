@@ -24,4 +24,4 @@ Als u verbinding wilt maken met een server via een cliënttoepassing of via een 
 
 Ontdek hoe u een IP-adresbereik aan de lijst van gewenste personen kunt toevoegen.
 
->[!VIDEO](https://video.tv.adobe.com/v/41775?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444642?learn=on&captions=dut){transcript=true}

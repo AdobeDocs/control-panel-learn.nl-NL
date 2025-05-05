@@ -34,6 +34,6 @@ of
 
 In de onderstaande video ziet u hoe u subdomeinen kunt delegeren.
 
->[!VIDEO](https://video.tv.adobe.com/v/31390?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430240?learn=on&captions=dut){transcript=true}
 
 Zie de [productdocumentatie](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html?lang=nl) voor meer informatie over het verlengen van het SSL-certificaat van een subdomein.

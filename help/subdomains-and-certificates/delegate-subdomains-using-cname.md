@@ -23,4 +23,4 @@ Als u met Adobe Campaign e-mailberichten wilt gaan verzenden of introductiepagin
 
 Leer hoe u een subdomein instelt en verzendt met behulp van CNAME-records in het configuratiescherm.
 
->[!VIDEO](https://video.tv.adobe.com/v/326612?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450130?learn=on&captions=dut){transcript=true}
