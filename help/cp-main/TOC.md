@@ -9,9 +9,9 @@ role: Admin
 level: Experienced
 auto-video-transcripts: true
 source-git-commit: ab0593ed8c17ecb3c069a5deda990913cf43d69b
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '123'
-ht-degree: 100%
+ht-degree: 94%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 100%
    + [Subdomeinen delegeren met CNAME](/help/subdomains-and-certificates/delegate-subdomains-using-cname.md)
    + [SSL-certificaten toevoegen](/help/subdomains-and-certificates/add-ssl-certificates.md)
    + [Beheer van Google-TXT-records](/help/subdomains-and-certificates/google-txt-record-management.md)
-+ Versie-instellingen {#instance-settings}
++ Instantie-instellingen {#instance-settings}
    + [IP-adressen toevoegen aan de lijst van gewenste personen](/help/instance-settings/allowlist-ip-adresses.md)
    + [URL-machtigingen toevoegen](/help/instance-settings/add-url-permissions.md)
    + GPG-sleutelbeheer {#gpg-key-management}
@@ -39,7 +39,7 @@ ht-degree: 100%
       + [GPG-sleutels voor versleuteling van gegevens genereren en installeren](/help/instance-settings/gpg-key-management/generate-and-install-gpg-keys-for-data-encryption.md)
       + [Een GPG-sleutel gebruiken om gegevens te versleutelen](/help/instance-settings/gpg-key-management/use-a-gpg-key-to-encrypt-data.md)
       + [Gegevens ontsleutelen](/help/instance-settings/gpg-key-management/decrypt-data.md)
-+ Prestatiecontrole {#performance-monitoring}
++ Prestatiebewaking {#performance-monitoring}
    + [Databases controleren](/help/performance-monitoring/monitor-databases.md)
    + [Workflows bewaken](/help/performance-monitoring/monitor-workflows.md)
    + [Doorvoer en latentie bewaken](/help/performance-monitoring/monitor-throughputs-and-latency.md)
