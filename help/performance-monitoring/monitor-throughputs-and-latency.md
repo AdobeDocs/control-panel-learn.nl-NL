@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Leer hoe te om leveringsproductie en transactionele berichtlatentie van uw campagneinstantie te controleren.
 
->[!VIDEO](https://video.tv.adobe.com/v/344310/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444743/?captions=dut&learn=on){transcript=true}
 
 ## Aanvullende bronnen
 
