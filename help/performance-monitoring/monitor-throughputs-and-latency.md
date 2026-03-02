@@ -26,7 +26,7 @@ Leer hoe te om leveringsproductie en transactionele berichtlatentie van uw campa
 
 ## Aanvullende bronnen
 
-* [Documentatie van het regelpaneel over doorvoer en latentiebewaking](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/thoughputs-latencies.html?lang=en#)
+* [Documentatie van het regelpaneel over doorvoer en latentiebewaking](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/thoughputs-latencies.html?lang=nl-NL#)
 * [OOTB-leveringsdashboards](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/delivery-dashboard.html?lang=en)
-* [OOTB Access transactionele berichtenrapporten (alleen campagne v7)](https://experienceleague.adobe.com/docs/campaign-classic/using/transactional-messaging/reports/about-transactional-messaging-reports.html?lang=en)
-* [Best practices voor levering](https://experienceleague.adobe.com/en/docs/campaign-standard/using/communication-channels/delivery-bestpractices/delivery-best-practices)
+* [OOTB Access transactionele berichtenrapporten (alleen campagne v7)](https://experienceleague.adobe.com/docs/campaign-classic/using/transactional-messaging/reports/about-transactional-messaging-reports.html?lang=nl-NL)
+* [Best practices voor levering](https://experienceleague.adobe.com/nl/docs/campaign-standard/using/communication-channels/delivery-bestpractices/delivery-best-practices)
